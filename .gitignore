@@ -4,6 +4,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# virtual environment folder
+profiles_api
+
 # C extensions
 *.so
 
